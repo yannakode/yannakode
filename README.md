@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yanna
 #### I'm a full stack developer
-![I'm a full stack developer](https://i.gifer.com/VdG3.gif)
+![I'm a full stack developer](https://media.tenor.com/uWHd-STTyFIAAAAM/asteroid-in-love-mari-morino.gif)
 
 
 Skills: C# / ASP.NET Core MVC / APIs RestFull / JS / HTML / CSS / SQL
