@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Yanna
 #### I'm a full stack developer
+![I'm a full stack developer](https://i0.wp.com/static.tumblr.com/559b48e9c2cd59eb52c94aa5df0f0791/uwwz5ax/0Szmjsfg7/tumblr_static_yesssssssss.gif)
+
 
 Skills: C# / ASP.NET Core MVC / APIs RestFull / JS / HTML / CSS / SQL
 
