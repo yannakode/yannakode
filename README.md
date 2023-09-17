@@ -16,11 +16,7 @@
       <img align="center" alt="Logo do Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />    
 </div><br>
 
-Eutusiasta da tecnologia, com uma devoção especial pela programação, sempre em busca de novos conhecimentos relacionados a computação 🖥️
+I am actively learning and exploring various concepts and technologies focusing on back-end development. 🖥️
 ### Social media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannack)
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=yannakode=discord)
