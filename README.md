@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Yanna. ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannack)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannakode&layout=compact&theme=theme)
 
 ![Yanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannakode&show_icons=true&theme=radical)
@@ -16,6 +15,7 @@
      <img align="center" alt="Logo do CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       <img align="center" alt="Logo do Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />    
 </div><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yannack)
 
 
 Eutusiasta da tecnologia, com uma devoção especial pela programação, sempre em busca de novos conhecimentos relacionados a computação 🖥️
