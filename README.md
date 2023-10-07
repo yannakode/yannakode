@@ -1,6 +1,6 @@
 ### Olá! I'm Yanna ✌️
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannakode&layout=compact&theme=theme)
+![GitHub Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannakode&langs_count=8))
 
 ![Yanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yannakode&show_icons=true&theme=radical)
 
